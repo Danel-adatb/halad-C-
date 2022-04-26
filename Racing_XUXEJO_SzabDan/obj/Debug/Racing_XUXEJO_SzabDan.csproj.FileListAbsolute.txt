@@ -1,0 +1,16 @@
+C:\VS_C#\Racing_XUXEJO_SzabDan\obj\Debug\Racing_XUXEJO_SzabDan.csproj.AssemblyReference.cache
+C:\VS_C#\Racing_XUXEJO_SzabDan\obj\Debug\Racing_XUXEJO_SzabDan.csproj.SuggestedBindingRedirects.cache
+C:\VS_C#\Racing_XUXEJO_SzabDan\obj\Debug\MainWindow.g.cs
+C:\VS_C#\Racing_XUXEJO_SzabDan\obj\Debug\App.g.cs
+C:\VS_C#\Racing_XUXEJO_SzabDan\obj\Debug\Racing_XUXEJO_SzabDan_MarkupCompile.cache
+C:\VS_C#\Racing_XUXEJO_SzabDan\obj\Debug\Racing_XUXEJO_SzabDan_MarkupCompile.lref
+C:\VS_C#\Racing_XUXEJO_SzabDan\bin\Debug\Racing_XUXEJO_SzabDan.exe.config
+C:\VS_C#\Racing_XUXEJO_SzabDan\bin\Debug\Racing_XUXEJO_SzabDan.exe
+C:\VS_C#\Racing_XUXEJO_SzabDan\bin\Debug\Racing_XUXEJO_SzabDan.pdb
+C:\VS_C#\Racing_XUXEJO_SzabDan\obj\Debug\MainWindow.baml
+C:\VS_C#\Racing_XUXEJO_SzabDan\obj\Debug\Racing_XUXEJO_SzabDan.g.resources
+C:\VS_C#\Racing_XUXEJO_SzabDan\obj\Debug\Racing_XUXEJO_SzabDan.Properties.Resources.resources
+C:\VS_C#\Racing_XUXEJO_SzabDan\obj\Debug\Racing_XUXEJO_SzabDan.csproj.GenerateResource.cache
+C:\VS_C#\Racing_XUXEJO_SzabDan\obj\Debug\Racing_XUXEJO_SzabDan.csproj.CoreCompileInputs.cache
+C:\VS_C#\Racing_XUXEJO_SzabDan\obj\Debug\Racing_XUXEJO_SzabDan.exe
+C:\VS_C#\Racing_XUXEJO_SzabDan\obj\Debug\Racing_XUXEJO_SzabDan.pdb
