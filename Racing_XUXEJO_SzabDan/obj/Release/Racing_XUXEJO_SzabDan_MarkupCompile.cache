@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\VS_C#\haladoCSharp\Racing_XUXEJO_SzabDan\obj\Debug\
+C:\VS_C#\haladoCSharp\Racing_XUXEJO_SzabDan\obj\Release\
 Racing_XUXEJO_SzabDan
 none
 false
-DEBUG;TRACE
+TRACE
 C:\VS_C#\haladoCSharp\Racing_XUXEJO_SzabDan\App.xaml
 1219584333
 
@@ -16,5 +16,5 @@ C:\VS_C#\haladoCSharp\Racing_XUXEJO_SzabDan\App.xaml
 13-1310406943
 MainWindow.xaml;
 
-False
+True
 
